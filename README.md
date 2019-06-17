@@ -29,6 +29,12 @@
 - Rails 4 Engines
 
   http://tech.taskrabbit.com/blog/2014/02/11/rails-4-engines/
+
+- Books
+```
+- Enterprise Rails
+- Growing Rails Applications in Practice
+```
   
   
 
