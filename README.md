@@ -45,6 +45,7 @@
 ## 4) Books
   * Ruby (Basic, Design Pattern, Refactor, Low Level...)
     * (Beginner) [Well Grounded Rubybist - 3rd](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Well%20grounded%20Rubyist%20-%203rd.pdf)
+    * (Beginner - Middle) [Practical Object-Oriented Design - 2nd](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Practical%20Object-Oriented%20Design%20-%202nd.pdf)
     * (Beginner - Middle) [TDD in Ruby](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Test%20Driven%20Development%20in%20Ruby.pdf)
     * (Beginner - Middle) [Ruby Best Practices](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20Best%20%20Practices.pdf)
     * (Middle) [Design Patterns in Ruby(2007)](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Design%20Patterns%20in%20Ruby%20(2007).pdf)
