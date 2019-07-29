@@ -61,4 +61,6 @@
     > * (Middle) [Component Based Rails Applications](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Component%20Based%20Rails-Applications.pdf)
     > * (Advance) [Lean Publishing Growing Rails Applications in Practice](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Lean%20Publishing%20Growing%20Rails%20Applications%20in%20Practice%20(2014).pdf)
 
+## 5) [Useful gem list](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/useful_gems.md)
+
 
