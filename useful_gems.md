@@ -7,6 +7,7 @@
   > * `active_record_doctor` - Active Record Doctor helps to keep the database in a good shape
   > * `lol_dba` - small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed  
   > * `rails-perftest` - Performance testing a Ruby on Rails application.
+  > * `ruby-prof` - It can help you track down methods that are either slow, allocate a large number of objects or allocate objects with high memory usage
   
 ## 2) Server, Database, Architect
   > * `apartment` - Apartment provides tools to help you deal with multiple tenants in your Rails application
