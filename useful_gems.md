@@ -16,7 +16,6 @@
   > * `ransack` - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
   > * `ar-octopus` - Octopus is a better way to do Database Sharding in ActiveRecord.
 
-
 ## 3) Paralllel and Concurrent Processing
   > * `parallel` - Run any code in parallel Processes(> use all CPUs) or Threads(> speedup blocking operations).
   > * `eventmachine` - EventMachine is an event-driven I/O and lightweight concurrency library for Ruby
@@ -26,6 +25,7 @@
   > * `pundit` - Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
   > * `devise_invitable` - It adds support to Devise for sending invitations by email (it requires to be authenticated) and accept the invitation setting the password.
   > * `devise` - Devise is a flexible authentication solution for Rails based on Warden.
+  > * `warden` - Warden is a Rack-based middleware, designed to provide a mechanism for authentication in Ruby web applications.
   > * `mechanize` - used for automating interaction with websites. Mechanize automatically stores and sends cookies, follows redirects, and can follow links and submit forms.
   
 ## 5) Ruby Framework, CMS
