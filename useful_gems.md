@@ -46,7 +46,7 @@
   > * `paranoia` - Solf delete
   > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
   > * `mechanize` - The Mechanize library is used for automating interaction with websites. Mechanize automatically stores and sends cookies, follows redirects, and can follow links and submit forms.
-
+  > * `money-rails` - This library provides integration of the money gem with Rails.
   
 
 
