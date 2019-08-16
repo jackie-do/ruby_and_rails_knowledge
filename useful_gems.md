@@ -34,10 +34,14 @@
   > * `spina` - Spina is a CMS for Rails 5.2. This guide is designed for developers with experience using Ruby on Rails.
   > * `administrate` - Administrate is a library for Rails apps that automatically generates admin dashboards.
 
-## 6) Payment
+## 6) Testing
+  > * `capybara-screenshot` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
+
+## 7) Payment
   > * `activemerchant` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
+  > * `money-rails` - This library provides integration of the money gem with Rails.
   
-## 7) Additional Features
+## 8) Additional Features
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
   > * `rpush` - Rpush aims to be the de facto gem for sending push notifications in Ruby
   > * `carrierwave` - provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails. 
@@ -46,7 +50,7 @@
   > * `paranoia` - Solf delete
   > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
   > * `mechanize` - The Mechanize library is used for automating interaction with websites. Mechanize automatically stores and sends cookies, follows redirects, and can follow links and submit forms.
-  > * `money-rails` - This library provides integration of the money gem with Rails.
+  
   
 
 
