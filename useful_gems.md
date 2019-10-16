@@ -28,6 +28,7 @@
   > * `devise` - Devise is a flexible authentication solution for Rails based on Warden.
   > * `warden` - Warden is a Rack-based middleware, designed to provide a mechanism for authentication in Ruby web applications.
   > * `mechanize` - used for automating interaction with websites. Mechanize automatically stores and sends cookies, follows redirects, and can follow links and submit forms.
+  > * `recaptcha` - This gem provides helper methods for the reCAPTCHA API.
   
 ## 5) Ruby Framework, CMS
   > * `grape` - Grape is a REST-like API framework for Ruby. It's designed to run on Rack or complement existing web application frameworks such as Rails and Sinatra by providing a simple DSL to easily develop RESTful APIs.
