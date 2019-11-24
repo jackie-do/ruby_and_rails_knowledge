@@ -42,6 +42,8 @@
 ## 7) Payment
   > * `activemerchant` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
   > * `money-rails` - This library provides integration of the money gem with Rails.
+  > * `stripe` - The Stripe Ruby library provides convenient access to the Stripe API from applications written in the Ruby language
+
   
 ## 8) Additional Features
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
@@ -51,7 +53,7 @@
   > * `gretel` - Handle Breadcrumb in Ruby
   > * `paranoia` - Solf delete
   > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
-
+  > * `dotenv-rails` - Shim to load environment variables from .env into ENV in development.
   
   
 
