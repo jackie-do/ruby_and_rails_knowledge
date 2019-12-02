@@ -56,6 +56,7 @@
   > * `paranoia` - Solf delete
   > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
   > * `dotenv-rails` - Shim to load environment variables from .env into ENV in development.
+  > * `net-sftp` - Net::SFTP is a pure-Ruby implementation of the SFTP protocol.
   
   
 
