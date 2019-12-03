@@ -35,6 +35,7 @@
   > * `camaleon_cms` - Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails that adapts to your needs
   > * `spina` - Spina is a CMS for Rails 5.2. This guide is designed for developers with experience using Ruby on Rails.
   > * `administrate` - Administrate is a library for Rails apps that automatically generates admin dashboards.
+  > * `solidus` - A free, open-source ecommerce platform that gives you complete control over your store.
 
 ## 6) Testing
   > * `capybara-screenshot` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
