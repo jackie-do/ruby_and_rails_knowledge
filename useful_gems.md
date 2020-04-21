@@ -41,7 +41,8 @@
   > * `capybara-screenshot` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
   > * `vcr` - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. HELP TEST THIRD PARTY via HTTP CALL
   > * `webmock` - Using with vrc. Library for stubbing and setting expectations on HTTP requests in Ruby.
-
+  > * `puma-ngrok-tunnel` - For Demo, A plugin for puma that'll start a ngrok tunnel to your rails server when puma starts. 
+  
 ## 7) Payment
   > * `activemerchant` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
   > * `money-rails` - This library provides integration of the money gem with Rails.
