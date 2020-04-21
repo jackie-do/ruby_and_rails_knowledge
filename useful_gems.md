@@ -16,6 +16,7 @@
   > * `ransack` - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
   > * `ar-octopus` - Octopus is a better way to do Database Sharding in ActiveRecord.
   > * `interactor` - Interactors are used to encapsulate your application's business logic. Each interactor represents one thing that your application does.
+  > * `rails-erd` - is a gem that allows you to easily generate a diagram based on your application's Active Record models. The diagram gives an overview of how your models are related. Having a diagram that describes your models is perfect documentation for your application.
 
 ## 3) Paralllel and Concurrent Processing
   > * `parallel` - Run any code in parallel Processes(> use all CPUs) or Threads(> speedup blocking operations).
