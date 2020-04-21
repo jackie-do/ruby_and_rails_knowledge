@@ -16,7 +16,6 @@
   > * `ransack` - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
   > * `ar-octopus` - Octopus is a better way to do Database Sharding in ActiveRecord.
   > * `interactor` - Interactors are used to encapsulate your application's business logic. Each interactor represents one thing that your application does.
-  > * `rails-erd` - is a gem that allows you to easily generate a diagram based on your application's Active Record models. The diagram gives an overview of how your models are related. Having a diagram that describes your models is perfect documentation for your application.
 
 ## 3) Paralllel and Concurrent Processing
   > * `parallel` - Run any code in parallel Processes(> use all CPUs) or Threads(> speedup blocking operations).
@@ -48,8 +47,11 @@
   > * `money-rails` - This library provides integration of the money gem with Rails.
   > * `stripe` - The Stripe Ruby library provides convenient access to the Stripe API from applications written in the Ruby language
 
-  
-## 8) Additional Features
+## 8) Document
+> * `rails-erd` - is a gem that allows you to easily generate a diagram based on your application's Active Record models. The diagram gives an overview of how your models are related. Having a diagram that describes your models is perfect documentation for your application.
+> * `apipie-rails` - Apipie-rails is a DSL and Rails engine for documenting your RESTful API
+
+## 9) Additional Features
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
   > * `rpush` - Rpush aims to be the de facto gem for sending push notifications in Ruby
   > * `carrierwave` - provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails. 
