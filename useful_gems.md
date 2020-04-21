@@ -50,6 +50,7 @@
 ## 8) Document
 > * `rails-erd` - is a gem that allows you to easily generate a diagram based on your application's Active Record models. The diagram gives an overview of how your models are related. Having a diagram that describes your models is perfect documentation for your application.
 > * `apipie-rails` - Apipie-rails is a DSL and Rails engine for documenting your RESTful API
+> * `annotate` - Add a comment summarizing the current schema to the top or bottom (ActiveRecord models, Fixture files ...)
 
 ## 9) Additional Features
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
