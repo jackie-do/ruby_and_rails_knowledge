@@ -8,6 +8,7 @@
   > * `lol_dba` - small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed  
   > * `rails-perftest` - Performance testing a Ruby on Rails application.
   > * `ruby-prof` - It can help you track down methods that are either slow, allocate a large number of objects or allocate objects with high memory usage
+  > * `bullet` - The Bullet gem is designed to help you increase your application's performance by reducing the number of queries it makes.
   
 ## 2) Server, Database, Architect
   > * `apartment` - Apartment provides tools to help you deal with multiple tenants in your Rails application
@@ -26,6 +27,10 @@
   > * `pundit` - Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
   > * `devise_invitable` - It adds support to Devise for sending invitations by email (it requires to be authenticated) and accept the invitation setting the password.
   > * `devise` - Devise is a flexible authentication solution for Rails based on Warden.
+  > * `devise_token_auth` - Simple, multi-client and secure token-based authentication for Rails.
+  > * `simple_token_authentication` -  Token authentication with Devise.
+  > * `cancancan` - an authorization library for Ruby and Ruby on Rails which restricts what resources a given user is allowed to access.
+  > * `rolify` - Very simple Roles library without any authorization enforcement supporting scope on resource object.
   > * `warden` - Warden is a Rack-based middleware, designed to provide a mechanism for authentication in Ruby web applications.
   > * `mechanize` - used for automating interaction with websites. Mechanize automatically stores and sends cookies, follows redirects, and can follow links and submit forms.
   > * `recaptcha` - This gem provides helper methods for the reCAPTCHA API.
@@ -63,6 +68,7 @@
   > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
   > * `dotenv-rails` - Shim to load environment variables from .env into ENV in development.
   > * `net-sftp` - Net::SFTP is a pure-Ruby implementation of the SFTP protocol.
+  > * `brakeman` - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities
   
   
 
