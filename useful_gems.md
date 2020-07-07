@@ -10,13 +10,19 @@
   > * `ruby-prof` - It can help you track down methods that are either slow, allocate a large number of objects or allocate objects with high memory usage
   > * `bullet` - The Bullet gem is designed to help you increase your application's performance by reducing the number of queries it makes.
   
-## 2) Server, Database, Architect
+## 2) Server, Database, Architect, Coding Patterns
   > * `apartment` - Apartment provides tools to help you deal with multiple tenants in your Rails application
   > * `ffi` - Ruby-FFI is a gem for programmatically loading dynamically-linked native libraries, binding functions within them, and calling those functions from Ruby code. (Ruby work with C)
   > * `paper_trail` - Track changes to your models, for auditing or versioning. See how a model looked at any stage in its lifecycle, revert it to any version, or restore it after it has been destroyed.
   > * `ransack` - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
   > * `ar-octopus` - Octopus is a better way to do Database Sharding in ActiveRecord.
+  
+  
   > * `interactor` - Interactors are used to encapsulate your application's business logic. Each interactor represents one thing that your application does.
+  > * `dry-transaction` - Apply DRY style by using transactions
+  > * `dry-validation` - Apply DRY style by using validations
+  > * `dry-initializer`
+  
 
 ## 3) Paralllel and Concurrent Processing
   > * `parallel` - Run any code in parallel Processes(> use all CPUs) or Threads(> speedup blocking operations).
