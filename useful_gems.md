@@ -17,11 +17,12 @@
   > * `ransack` - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
   > * `ar-octopus` - Octopus is a better way to do Database Sharding in ActiveRecord.
   
-  
-  > * `interactor` - Interactors are used to encapsulate your application's business logic. Each interactor represents one thing that your application does.
+  #### Coding Patterns
+  > * `interactor` - Apply Interactor for coding
+  > * `draper` - Apply Decorator for coding
   > * `dry-transaction` - Apply DRY style by using transactions
   > * `dry-validation` - Apply DRY style by using validations
-  > * `dry-initializer`
+  > * `dry-initializer` - Support params and options
   
 
 ## 3) Paralllel and Concurrent Processing
@@ -56,7 +57,7 @@
   > * `simplecov` - SimpleCov is a code coverage analysis tool for Ruby. The overall coverage results for your projects, including all types of tests, Cucumber features, etc
   > * `rspec-rails` - brings the RSpec testing framework to Ruby on Rails as a drop-in alternative to its default testing framework, Minitest.
   > * `fasterer` - Fasterer will suggest some speed improvements which you can check
-  > * ``
+
   
 ## 7) Payment
   > * `activemerchant` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
