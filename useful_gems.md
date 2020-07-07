@@ -47,6 +47,10 @@
   > * `vcr` - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. HELP TEST THIRD PARTY via HTTP CALL
   > * `webmock` - Using with vrc. Library for stubbing and setting expectations on HTTP requests in Ruby.
   > * `puma-ngrok-tunnel` - For Demo, A plugin for puma that'll start a ngrok tunnel to your rails server when puma starts. 
+  > * `simplecov` - SimpleCov is a code coverage analysis tool for Ruby. The overall coverage results for your projects, including all types of tests, Cucumber features, etc
+  > * `rspec-rails` - brings the RSpec testing framework to Ruby on Rails as a drop-in alternative to its default testing framework, Minitest.
+  > * `fasterer` - Fasterer will suggest some speed improvements which you can check
+  > * ``
   
 ## 7) Payment
   > * `activemerchant` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
@@ -58,7 +62,13 @@
 > * `apipie-rails` - Apipie-rails is a DSL and Rails engine for documenting your RESTful API
 > * `annotate` - Add a comment summarizing the current schema to the top or bottom (ActiveRecord models, Fixture files ...)
 
-## 9) Additional Features
+## 9) Monitoring
+  > * `brakeman` - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities
+  > * `bundler-audit` - Check gems: vulnerable versions,  insecure gem sources, Prints advisory information ...
+  > * `dawnscanner` - Dawnscanner is a source code scanner designed to review your ruby code for security issues
+  > * `rubycritic` - RubyCritic is a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
+  
+## 10) Additional Features
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
   > * `rpush` - Rpush aims to be the de facto gem for sending push notifications in Ruby
   > * `carrierwave` - provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails. 
@@ -68,7 +78,7 @@
   > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
   > * `dotenv-rails` - Shim to load environment variables from .env into ENV in development.
   > * `net-sftp` - Net::SFTP is a pure-Ruby implementation of the SFTP protocol.
-  > * `brakeman` - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities
+
   
   
 
