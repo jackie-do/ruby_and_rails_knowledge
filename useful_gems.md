@@ -57,6 +57,9 @@
   > * `simplecov` - SimpleCov is a code coverage analysis tool for Ruby. The overall coverage results for your projects, including all types of tests, Cucumber features, etc
   > * `rspec-rails` - brings the RSpec testing framework to Ruby on Rails as a drop-in alternative to its default testing framework, Minitest.
   > * `fasterer` - Fasterer will suggest some speed improvements which you can check
+  
+  
+  > * `rswag-specs` - Rswag extends rspec-rails "request specs" with a Swagger-based DSL for describing and testing API operations 
 
   
 ## 7) Payment
@@ -68,6 +71,10 @@
 > * `rails-erd` - is a gem that allows you to easily generate a diagram based on your application's Active Record models. The diagram gives an overview of how your models are related. Having a diagram that describes your models is perfect documentation for your application.
 > * `apipie-rails` - Apipie-rails is a DSL and Rails engine for documenting your RESTful API
 > * `annotate` - Add a comment summarizing the current schema to the top or bottom (ActiveRecord models, Fixture files ...)
+
+
+> * `rswag-api` - xxx
+> * `rswag-ui` - xxx
 
 ## 9) Monitoring
   > * `brakeman` - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities
