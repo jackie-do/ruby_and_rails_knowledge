@@ -60,6 +60,16 @@
   
   
   > * `rswag-specs` - Rswag extends rspec-rails "request specs" with a Swagger-based DSL for describing and testing API operations 
+  
+  
+  > * `rubocop` -
+  > * `rubocop-performance` -
+  > * `rubocop-rails` -
+  > * `rubocop-rspec` -
+  
+  
+  > * `mongoid-rspec` -
+  
 
   
 ## 7) Payment
@@ -92,6 +102,9 @@
   > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
   > * `dotenv-rails` - Shim to load environment variables from .env into ENV in development.
   > * `net-sftp` - Net::SFTP is a pure-Ruby implementation of the SFTP protocol.
+  > * `database_cleaner-mongoid` -
+  
+  
 
   
   
