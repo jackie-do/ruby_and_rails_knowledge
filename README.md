@@ -48,7 +48,6 @@
     > * (Beginner - Middle) [Practical Object-Oriented Design - 2nd](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20-%20Practical%20Object-Oriented%20Design%20-%202nd.pdf)
     > * (Beginner - Middle) [TDD in Ruby](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20-%20Test%20Driven%20Development%20in%20Ruby.pdf)
     > * (Beginner - Middle) [Ruby Best Practices](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20-%20Ruby%20Best%20%20Practices.pdf)
-    > * (Middle) [Rails 5 Test Prescriptions](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Rails%205%20Test%20Prescriptions.pdf)
     > * (Middle) [Design Patterns in Ruby(2007)](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20-%20Design%20Patterns%20in%20Ruby%20(2007).pdf)
     > * (Middle - Advance) [Refactoring Ruby](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20-%20Refactoring%20Ruby.pdf)
     > * (Middle - Advance) [Metaprograming Ruby](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20-%20Metaprogramming%20Ruby%202nd.pdf)
@@ -57,6 +56,7 @@
 
   * **Rails (Basic, Structure, Scalability...)**
     > * (Beginner) [Learn Rails 5.2](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Learn%20Rails%205-2.pdf)
+    > * (Beginner) [Rails 5 Test Prescriptions](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Rails%205%20Test%20Prescriptions.pdf)
     > * (Middle) [Modular Rails - The complete guide](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Modular%20Rails%20The%20Complete%20Guide%20to%20Modular%20Rails%20Applications.pdf)
     > * (Middle) [Service-Oriented Design with Ruby on Rails](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Service-Oriented%20Design%20with%20Ruby%20and%20Rails.pdf)
     > * (Middle) [Component Based Rails Applications](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Component%20Based%20Rails-Applications.pdf)
