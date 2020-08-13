@@ -41,8 +41,12 @@
 
 ## 3) Optimizations
 
+## 4) Testing
+- Test Code Coverage 
+https://docs.google.com/presentation/d/1eu2x8EAPOe6LG2DTjNk-GZiUJ8TBAZuhq9awg31HfSU/edit#slide=id.g872c0e3715_0_1737
+- xx
 
-## 4) Books
+## 5) Books
   * **Ruby (Basic, Design Pattern, Refactor, Low Level...)**
     > * (Beginner) [Well Grounded Rubybist - 3rd](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20-%20Well%20grounded%20Rubyist%20-%203rd.pdf)
     > * (Beginner - Middle) [Practical Object-Oriented Design - 2nd](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Ruby%20-%20Practical%20Object-Oriented%20Design%20-%202nd.pdf)
@@ -62,6 +66,6 @@
     > * (Middle) [Component Based Rails Applications](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Component%20Based%20Rails-Applications.pdf)
     > * (Advance) [Lean Publishing Growing Rails Applications in Practice](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/books/Rails%20-%20Lean%20Publishing%20Growing%20Rails%20Applications%20in%20Practice%20(2014).pdf)
 
-## 5) [Useful gem list](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/useful_gems.md)
+## 6) [Useful gem list](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/useful_gems.md)
 
 
