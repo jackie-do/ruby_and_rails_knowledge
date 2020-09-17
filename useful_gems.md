@@ -94,7 +94,7 @@
   
 ## 10) Work with files
   > * [`prawn`](https://github.com/prawnpdf/prawn) - PDF generator, Prawn is a pure Ruby PDF generation library that provides a lot of great functionality while trying to remain simple and reasonably performant
-  > * [`wicked_pdf`](https://github.com/mileszs/wicked_pdf) - PDF generator from HTML
+  > * [`wicked_pdf`](https://github.com/mileszs/wicked_pdf) - PDF generator from HTML using **wkhtmltopdf**
   
 ## 11) Additional Features
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
