@@ -92,7 +92,10 @@
   > * `dawnscanner` - Dawnscanner is a source code scanner designed to review your ruby code for security issues
   > * `rubycritic` - RubyCritic is a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
   
-## 10) Additional Features
+## 10) Work with files
+  > * [`prawn`](https://github.com/prawnpdf/prawn) - PDF generator, Prawn is a pure Ruby PDF generation library that provides a lot of great functionality while trying to remain simple and reasonably performant
+  
+## 11) Additional Features
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
   > * `rpush` - Rpush aims to be the de facto gem for sending push notifications in Ruby
   > * `carrierwave` - provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails. 
