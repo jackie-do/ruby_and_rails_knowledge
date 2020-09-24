@@ -108,6 +108,9 @@
   > * `net-sftp` - Net::SFTP is a pure-Ruby implementation of the SFTP protocol.
   > * `database_cleaner-mongoid` - Database cleaner for MongoID
   > * `config` - Config helps you easily manage environment specific settings in an easy and usable manner.
+  > * [`js-routes`](https://github.com/railsware/js-routes) - Generates javascript file that defines all Rails named routes as javascript helpers
+
+ 
 
 
   
