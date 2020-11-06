@@ -16,6 +16,9 @@
   > * `paper_trail` - Track changes to your models, for auditing or versioning. See how a model looked at any stage in its lifecycle, revert it to any version, or restore it after it has been destroyed.
   > * `ransack` - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
   > * `ar-octopus` - Octopus is a better way to do Database Sharding in ActiveRecord.
+  > * [`squeel`](https://github.com/activerecord-hackery/squeel) - Squeel lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.
+
+
   
   #### Coding Patterns
   > * `interactor` - Apply Interactor for coding
