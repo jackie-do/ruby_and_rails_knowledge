@@ -94,6 +94,7 @@
   > * `bundler-audit` - Check gems: vulnerable versions,  insecure gem sources, Prints advisory information ...
   > * `dawnscanner` - Dawnscanner is a source code scanner designed to review your ruby code for security issues
   > * `rubycritic` - RubyCritic is a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
+  > * [`health_check`](https://github.com/ianheggie/health_check) - Simple health check of Rails edge apps for use with Pingdom, NewRelic, EngineYard
   
 ## 10) Work with files
   > * [`prawn`](https://github.com/prawnpdf/prawn) - PDF generator, Prawn is a pure Ruby PDF generation library that provides a lot of great functionality while trying to remain simple and reasonably performant
