@@ -113,6 +113,7 @@
   > * `database_cleaner-mongoid` - Database cleaner for MongoID
   > * `config` - Config helps you easily manage environment specific settings in an easy and usable manner.
   > * [`js-routes`](https://github.com/railsware/js-routes) - Generates javascript file that defines all Rails named routes as javascript helpers
+  > * [`redcarpet`](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn
 
  
 
