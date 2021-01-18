@@ -115,6 +115,7 @@
   > * [`js-routes`](https://github.com/railsware/js-routes) - Generates javascript file that defines all Rails named routes as javascript helpers
   > * [`redcarpet`](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn
   > * [`xray-rails`](https://github.com/brentd/xray-rails) - Detect Rails views in development
+  > * [`counter_culture`](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches
 
  
 
