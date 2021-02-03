@@ -116,7 +116,7 @@
   > * [`redcarpet`](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn
   > * [`xray-rails`](https://github.com/brentd/xray-rails) - Detect Rails views in development
   > * [`counter_culture`](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches
-
+  > * [`seed-fu`](https://github.com/mbleigh/seed-fu) - Seed Fu is an attempt to once and for all solve the problem of inserting and maintaining seed data in a database
  
 
 
