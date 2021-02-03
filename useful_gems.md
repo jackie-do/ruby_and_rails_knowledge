@@ -27,6 +27,13 @@
   > * `dry-validation` - Apply DRY style by using validations
   > * `dry-initializer` - Support params and options
   
+  
+  #### Coding Support
+  > * [`hashie`](https://github.com/hashie/hashie) - Hashie is a growing collection of tools that extend Hashes and make them more useful.
+  > * [`active_hash`](https://github.com/zilkey/active_hash) - ActiveHash is a simple base class that allows you to use a ruby hash as a readonly datasource for an ActiveRecord-like model.
+
+
+  
 
 ## 3) Paralllel and Concurrent Processing
   > * `parallel` - Run any code in parallel Processes(> use all CPUs) or Threads(> speedup blocking operations).
