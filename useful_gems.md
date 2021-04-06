@@ -9,6 +9,7 @@
   > * `rails-perftest` - Performance testing a Ruby on Rails application.
   > * `ruby-prof` - It can help you track down methods that are either slow, allocate a large number of objects or allocate objects with high memory usage
   > * `bullet` - The Bullet gem is designed to help you increase your application's performance by reducing the number of queries it makes.
+  > * [`meta_request`](https://github.com/dejan/rails_panel) - Provides insight to db/rendering/total times, parameter list, rendered views and more.
   
 ## 2) Server, Database, Architect, Coding Patterns
   > * `apartment` - Apartment provides tools to help you deal with multiple tenants in your Rails application
