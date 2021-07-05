@@ -33,15 +33,15 @@
   > * [`hashie`](https://github.com/hashie/hashie) - Hashie is a growing collection of tools that extend Hashes and make them more useful.
   > * [`active_hash`](https://github.com/zilkey/active_hash) - ActiveHash is a simple base class that allows you to use a ruby hash as a readonly datasource for an ActiveRecord-like model.
 
+## 3) Security, Protect
+  > * [`rack-attack`](https://github.com/rack/rack-attack) - Rack middleware for blocking & throttling abusive requests
 
-  
-
-## 3) Paralllel and Concurrent Processing
+## 4) Paralllel and Concurrent Processing
   > * `parallel` - Run any code in parallel Processes(> use all CPUs) or Threads(> speedup blocking operations).
   > * `eventmachine` - EventMachine is an event-driven I/O and lightweight concurrency library for Ruby
   > * `typhoeus` - Using native C library for making multiple HTTP request at sametime
 
-## 4) Authentications and Authorizations
+## 5) Authentications and Authorizations
   > * `pundit` - Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
   > * `devise_invitable` - It adds support to Devise for sending invitations by email (it requires to be authenticated) and accept the invitation setting the password.
   > * `devise` - Devise is a flexible authentication solution for Rails based on Warden.
@@ -53,14 +53,14 @@
   > * `mechanize` - used for automating interaction with websites. Mechanize automatically stores and sends cookies, follows redirects, and can follow links and submit forms.
   > * `recaptcha` - This gem provides helper methods for the reCAPTCHA API.
   
-## 5) Ruby Framework, CMS
+## 6) Ruby Framework, CMS
   > * `grape` - Grape is a REST-like API framework for Ruby. It's designed to run on Rack or complement existing web application frameworks such as Rails and Sinatra by providing a simple DSL to easily develop RESTful APIs.
   > * `camaleon_cms` - Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails that adapts to your needs
   > * `spina` - Spina is a CMS for Rails 5.2. This guide is designed for developers with experience using Ruby on Rails.
   > * `administrate` - Administrate is a library for Rails apps that automatically generates admin dashboards.
   > * `solidus` - A free, open-source ecommerce platform that gives you complete control over your store.
 
-## 6) Testing
+## 7) Testing
   > * `capybara-screenshot` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
   > * `vcr` - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. HELP TEST THIRD PARTY via HTTP CALL
   > * `webmock` - Using with vrc. Library for stubbing and setting expectations on HTTP requests in Ruby.
@@ -83,12 +83,12 @@
   
 
   
-## 7) Payment
+## 8) Payment
   > * `activemerchant` - Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
   > * `money-rails` - This library provides integration of the money gem with Rails.
   > * `stripe` - The Stripe Ruby library provides convenient access to the Stripe API from applications written in the Ruby language
 
-## 8) Document
+## 9) Document
 > * `rails-erd` - is a gem that allows you to easily generate a diagram based on your application's Active Record models. The diagram gives an overview of how your models are related. Having a diagram that describes your models is perfect documentation for your application.
 > * `apipie-rails` - Apipie-rails is a DSL and Rails engine for documenting your RESTful API
 > * `annotate` - Add a comment summarizing the current schema to the top or bottom (ActiveRecord models, Fixture files ...)
@@ -97,7 +97,7 @@
 > * `rswag-api` - xxx
 > * `rswag-ui` - xxx
 
-## 9) Monitoring
+## 10) Monitoring
   > * `brakeman` - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities
   > * `bundler-audit` - Check gems: vulnerable versions,  insecure gem sources, Prints advisory information ...
   > * `dawnscanner` - Dawnscanner is a source code scanner designed to review your ruby code for security issues
@@ -105,11 +105,11 @@
   > * [`health_check`](https://github.com/ianheggie/health_check) - Simple health check of Rails edge apps for use with Pingdom, NewRelic, EngineYard
   > * [`active_record_doctor`](https://github.com/gregnavis/active_record_doctor) - helps to keep the database in a good shape
   
-## 10) Work with files
+## 11) Work with files
   > * [`prawn`](https://github.com/prawnpdf/prawn) - PDF generator, Prawn is a pure Ruby PDF generation library that provides a lot of great functionality while trying to remain simple and reasonably performant
   > * [`wicked_pdf`](https://github.com/mileszs/wicked_pdf) - PDF generator from HTML using **wkhtmltopdf**
   
-## 11) Additional Features
+## 12) Additional Features
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
   > * `rpush` - Rpush aims to be the de facto gem for sending push notifications in Ruby
   > * `carrierwave` - provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails. 
