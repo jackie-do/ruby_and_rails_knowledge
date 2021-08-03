@@ -127,7 +127,7 @@
   > * [`counter_culture`](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches
   > * [`seed-fu`](https://github.com/mbleigh/seed-fu) - Seed Fu is an attempt to once and for all solve the problem of inserting and maintaining seed data in a database
   > * [`acts_as_list`](https://github.com/brendon/acts_as_list) - This acts_as extension provides the capabilities for sorting and reordering a number of objects in a list. The class that has this specified needs to have a position column defined as an integer on the mapped database table.
- 
+  > * [`noticed`](https://github.com/excid3/noticed) - Currently, we support these notification delivery methods out of the box: Database, Email, ActionCable channels, Slack ...
 
 
   
