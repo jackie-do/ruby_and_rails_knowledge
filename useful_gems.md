@@ -104,6 +104,7 @@
   > * `rubycritic` - RubyCritic is a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
   > * [`health_check`](https://github.com/ianheggie/health_check) - Simple health check of Rails edge apps for use with Pingdom, NewRelic, EngineYard
   > * [`active_record_doctor`](https://github.com/gregnavis/active_record_doctor) - helps to keep the database in a good shape
+  > * [`oink`](https://github.com/noahd1/oink) - Rails plugin and log parser to help narrow down the source(s) of increased memory usage in rails applications.
   
 ## 11) Work with files
   > * [`prawn`](https://github.com/prawnpdf/prawn) - PDF generator, Prawn is a pure Ruby PDF generation library that provides a lot of great functionality while trying to remain simple and reasonably performant
