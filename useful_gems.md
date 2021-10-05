@@ -27,6 +27,7 @@
   > * `dry-transaction` - Apply DRY style by using transactions
   > * `dry-validation` - Apply DRY style by using validations
   > * `dry-initializer` - Support params and options
+  > * [`wisper`](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with `Publish-Subscribe` capabilities
   
   
   #### Coding Support
