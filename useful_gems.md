@@ -56,6 +56,7 @@
   
 ## 6) Ruby Framework, CMS
   > * `grape` - Grape is a REST-like API framework for Ruby. It's designed to run on Rack or complement existing web application frameworks such as Rails and Sinatra by providing a simple DSL to easily develop RESTful APIs.
+  > * [`hamani`](https://hanamirb.org/) - Ruby performance framework 
   > * `camaleon_cms` - Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails that adapts to your needs
   > * `spina` - Spina is a CMS for Rails 5.2. This guide is designed for developers with experience using Ruby on Rails.
   > * `administrate` - Administrate is a library for Rails apps that automatically generates admin dashboards.
