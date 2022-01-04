@@ -47,7 +47,7 @@
 https://docs.google.com/presentation/d/1eu2x8EAPOe6LG2DTjNk-GZiUJ8TBAZuhq9awg31HfSU/edit#slide=id.g872c0e3715_0_1737
 
 
-## 5) Testing
+## 5) Documents some tools
 
 - Arel doc: https://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for-ruby.html
 
