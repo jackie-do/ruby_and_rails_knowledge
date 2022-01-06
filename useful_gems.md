@@ -117,7 +117,7 @@
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
   > * `rpush` - Rpush aims to be the de facto gem for sending push notifications in Ruby
   > * `carrierwave` - provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails. 
-  > * `state_machine` - support for creating state machines for attributes on any Ruby class
+  > * [`aasm`](https://github.com/aasm/aasm) - This package contains AASM, a library for adding finite state machines to Ruby classes.
   > * `gretel` - Handle Breadcrumb in Ruby
   > * `paranoia` - Solf delete
   > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
