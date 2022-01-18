@@ -114,24 +114,27 @@
   > * [`wicked_pdf`](https://github.com/mileszs/wicked_pdf) - PDF generator from HTML using **wkhtmltopdf**
   
 ## 12) Additional Features
+  > * [`aasm`](https://github.com/aasm/aasm) - This package contains AASM, a library for adding finite state machines to Ruby classes.
+  > * [`acts_as_list`](https://github.com/brendon/acts_as_list) - This acts_as extension provides the capabilities for sorting and reordering a number of objects in a list. The class that has this specified needs to have a position column defined as an integer on the mapped database table.
+  > * [`caxlsx`](https://github.com/caxlsx/caxlsx) - Export Excel.
+  > * `carrierwave` - provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails. 
+  > * `config` - Config helps you easily manage environment specific settings in an easy and usable manner.
+  > * [`counter_culture`](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches
+  > * `dotenv-rails` - Shim to load environment variables from .env into ENV in development.
+  > * `database_cleaner-mongoid` - Database cleaner for MongoID
+  > * `gretel` - Handle Breadcrumb in Ruby
+  > * [`js-routes`](https://github.com/railsware/js-routes) - Generates javascript file that defines all Rails named routes as javascript helpers
+  > * `net-sftp` - Net::SFTP is a pure-Ruby implementation of the SFTP protocol.
+  > * [`noticed`](https://github.com/excid3/noticed) - Currently, we support these notification delivery methods out of the box: Database, Email, ActionCable channels, Slack ...
+  > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST
+  > * `paranoia` - Solf delete
+  > * [`redcarpet`](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn
   > * `ruby-progressbar` - The ultimate text progress bar library for Ruby!
   > * `rpush` - Rpush aims to be the de facto gem for sending push notifications in Ruby
-  > * `carrierwave` - provides a simple and extremely flexible way to upload files from Ruby applications. It works well with Rack based web applications, such as Ruby on Rails. 
-  > * [`aasm`](https://github.com/aasm/aasm) - This package contains AASM, a library for adding finite state machines to Ruby classes.
-  > * `gretel` - Handle Breadcrumb in Ruby
-  > * `paranoia` - Solf delete
-  > * `multipart-post` - Adds a streamy multipart form post capability to Net::HTTP. Also supports other methods besides POST.
-  > * `dotenv-rails` - Shim to load environment variables from .env into ENV in development.
-  > * `net-sftp` - Net::SFTP is a pure-Ruby implementation of the SFTP protocol.
-  > * `database_cleaner-mongoid` - Database cleaner for MongoID
-  > * `config` - Config helps you easily manage environment specific settings in an easy and usable manner.
-  > * [`js-routes`](https://github.com/railsware/js-routes) - Generates javascript file that defines all Rails named routes as javascript helpers
-  > * [`redcarpet`](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn
-  > * [`xray-rails`](https://github.com/brentd/xray-rails) - Detect Rails views in development
-  > * [`counter_culture`](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches
   > * [`seed-fu`](https://github.com/mbleigh/seed-fu) - Seed Fu is an attempt to once and for all solve the problem of inserting and maintaining seed data in a database
-  > * [`acts_as_list`](https://github.com/brendon/acts_as_list) - This acts_as extension provides the capabilities for sorting and reordering a number of objects in a list. The class that has this specified needs to have a position column defined as an integer on the mapped database table.
-  > * [`noticed`](https://github.com/excid3/noticed) - Currently, we support these notification delivery methods out of the box: Database, Email, ActionCable channels, Slack ...
+  > * [`xray-rails`](https://github.com/brentd/xray-rails) - Detect Rails views in development
+
+
 
 
   
