@@ -2,6 +2,7 @@
 ## 1) Ideas and Coding conventions
 - https://www.infoq.com/presentations/Simple-Made-Easy/
 - Ruby on Rails and Costs https://m.signalvnoise.com/only-15-of-the-basecamp-operations-budget-is-spent-on-ruby/
+- Hanami in Microservices - https://www.useo.pl/blog/2021/07/trying-hanami-in-microservices
 
 ## 2) Architectures
 - DDD and Hexagonal Architecture with Rails
