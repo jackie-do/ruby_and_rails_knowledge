@@ -1,7 +1,7 @@
 # Useful Gem List
 ## 1) Optimizations (Database, Memory...)
   > * `newrelic_rpm`- It provides you with deep information about the performance of your Rails or Ruby application as it runs in production and transmits 
-  > * `fast_jsonapi` - serialization time is at least 25 times faster than Active Model Serializers
+  > * `jsonapi-serializer` - serialization time is at least 25 times faster than Active Model Serializers
   > * `ruby-jmeter` - This gem lets you write test plans for JMeter
   > * `jemalloc` - Instant jemalloc injection into Ruby apps, for better performance and less memory.
   > * `active_record_doctor` - Active Record Doctor helps to keep the database in a good shape
