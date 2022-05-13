@@ -19,7 +19,7 @@
   > * `ar-octopus` - Octopus is a better way to do Database Sharding in ActiveRecord.
   > * [`squeel`](https://github.com/activerecord-hackery/squeel) - Squeel lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.
   > * [`sequel`](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby.
-
+  > * [`rom`](https://github.com/rom-rb/rom) - Ruby Object Mapper (rom-rb) is a data mapping and persistence toolkit for Ruby with the goal to provide powerful object mapping capabilities without limiting the full power of your database.
   
   #### Coding Patterns
   > * `interactor` - Apply Interactor for coding
