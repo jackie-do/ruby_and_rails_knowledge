@@ -42,6 +42,7 @@
 
 
 ## 3) Optimizations
+- Check and optimize Rails https://github.com/rails/rails-perftest
 
 ## 4) Testing
 - Test Code Coverage 
