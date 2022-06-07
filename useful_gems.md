@@ -27,6 +27,7 @@
   > * `dry-transaction` - Apply DRY style by using transactions
   > * `dry-validation` - Apply DRY style by using validations
   > * `dry-initializer` - Support params and options
+  > * [`waterfall`](https://github.com/apneadiving/waterfall) - Chain ruby commands, and treat them like a flow, which provides a new approach to application control flow.
   > * [`wisper`](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with `Publish-Subscribe` capabilities
   
   
@@ -43,6 +44,7 @@
   > * `typhoeus` - Using native C library for making multiple HTTP request at sametime
 
 ## 5) Authentications and Authorizations
+  > * [`authlogic`](https://github.com/binarylogic/authlogic) - An unobtrusive ruby authentication library based on ActiveRecord.
   > * `pundit` - Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
   > * `devise_invitable` - It adds support to Devise for sending invitations by email (it requires to be authenticated) and accept the invitation setting the password.
   > * `devise` - Devise is a flexible authentication solution for Rails based on Warden.
