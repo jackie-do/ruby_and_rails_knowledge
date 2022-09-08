@@ -141,6 +141,7 @@
   > * `rpush` - Rpush aims to be the de facto gem for sending push notifications in Ruby
   > * [`seed-fu`](https://github.com/mbleigh/seed-fu) - Seed Fu is an attempt to once and for all solve the problem of inserting and maintaining seed data in a database
   > * [`xray-rails`](https://github.com/brentd/xray-rails) - Detect Rails views in development
+  > * [`mobility`](https://github.com/shioyama/mobility) - Translate module, Mobility is a gem for storing and retrieving translations as attributes on a class
 
 
 
