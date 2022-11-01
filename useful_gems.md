@@ -130,6 +130,8 @@
   > * [`counter_culture`](https://github.com/magnusvk/counter_culture) - Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches
   > * `dotenv-rails` - Shim to load environment variables from .env into ENV in development.
   > * `database_cleaner-mongoid` - Database cleaner for MongoID
+  > * [`discard`](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded (soft delete)
+
   > * [`sanitize_email`](https://github.com/pboling/sanitize_email) - This gem allows you to override your mail delivery settings, globally or in a local context. It is like a Ruby encrusted condom for your email server, just in case it decides to have intercourse with other servers via sundry mail protocols.
   > * `gretel` - Handle Breadcrumb in Ruby
   > * [`js-routes`](https://github.com/railsware/js-routes) - Generates javascript file that defines all Rails named routes as javascript helpers
