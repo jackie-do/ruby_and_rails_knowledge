@@ -32,6 +32,11 @@
 
   http://tech.taskrabbit.com/blog/2014/02/11/rails-4-engines/
 
+- Alternative frameworks:
+  - Sinatra 
+  - Hanami 
+  - Grape 
+
 - Books
 ```
 - Enterprise Rails
