@@ -1,3 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 # Ruby and Rails knowledge
 ## 1) Ruby Web Frameworks
 - [Rails](https://rubyonrails.org/) - The most famost Ruby framework for building websites and web apps
