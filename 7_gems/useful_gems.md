@@ -106,9 +106,9 @@
 
 ## 10) Monitoring
   > * [`active_record_doctor`](https://github.com/gregnavis/active_record_doctor) - helps to keep the database in a good shape
-  > * `brakeman` - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities
-  > * `bundler-audit` - Check gems: vulnerable versions,  insecure gem sources, Prints advisory information ...
-  > * `dawnscanner` - Dawnscanner is a source code scanner designed to review your ruby code for security issues
+  > * [`brakeman`](https://github.com/presidentbeef/brakeman) - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities
+  > * [`bundler-audit`](https://github.com/rubysec/bundler-audit) - Check gems: vulnerable versions,  insecure gem sources, Prints advisory information ...
+  > * [`dawnscanner`](https://github.com/thesp0nge/dawnscanner) - Dawnscanner is a source code scanner designed to review your ruby code for security issues
   > * [`exception_notification`](https://github.com/smartinez87/exception_notification) - provides a set of notifiers for sending notifications when errors occur in a Rack/Rails application
   > * [`ecs-logging-ruby`](https://github.com/elastic/ecs-logging-ruby) - Custom log ElasticSearch 
   > * [`oink`](https://github.com/noahd1/oink) - Rails plugin and log parser to help narrow down the source(s) of increased memory usage in rails applications.
