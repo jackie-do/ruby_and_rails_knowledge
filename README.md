@@ -3,8 +3,10 @@
 - [Rails](https://rubyonrails.org/) - The most famost Ruby framework for building websites and web apps
 - [Hanami](https://guides.hanamirb.org/v2.0/introduction/getting-started/) - A new star, applied new theories for modern and performance Ruby framework
 - [Sinatra](https://sinatrarb.com/intro.html) - The simplest and lightest framework with more than 2k lines of code, support very basic features.
-- Grape
+- [Grape](https://github.com/ruby-grape/grape#what-is-grape) - Grape is a REST-like API framework for Ruby
+
 ## 2) Architectures
+
 - DDD and Hexagonal Architecture with Rails
 
   https://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
