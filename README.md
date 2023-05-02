@@ -2,7 +2,7 @@
 ## 1) Ruby Web Frameworks
 - [Rails](https://rubyonrails.org/) - The most famost Ruby framework for building websites and web apps
 - [Hanami](https://guides.hanamirb.org/v2.0/introduction/getting-started/) - A new star, applied new theories for modern and performance Ruby framework
-- Sinatra - The simplest and lightest framework with more than 2k lines of code, support very basic features.
+- [Sinatra](https://sinatrarb.com/intro.html) - The simplest and lightest framework with more than 2k lines of code, support very basic features.
 - Grape
 ## 2) Architectures
 - DDD and Hexagonal Architecture with Rails
