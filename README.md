@@ -4,6 +4,7 @@
 - [Hanami](https://guides.hanamirb.org/v2.0/introduction/getting-started/) - A new star, applied new theories for modern and performance Ruby framework
 - [Sinatra](https://sinatrarb.com/intro.html) - The simplest and lightest framework with more than 2k lines of code, support very basic features.
 - [Grape](https://github.com/ruby-grape/grape#what-is-grape) - Grape is a REST-like API framework for Ruby
+- [Karafka](https://github.com/karafka/karafka) - Karafka is a Ruby and Rails multi-threaded efficient Kafka processing framework
 
 ## 2) Architectures
 
