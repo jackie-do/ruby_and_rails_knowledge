@@ -7,17 +7,17 @@
 - [Karafka](https://github.com/karafka/karafka) - Karafka is a Ruby and Rails multi-threaded efficient Kafka processing framework
 
 ## 2) Architectures
-### 1) Model-View-Controller (MVC)
+#### 1) Model-View-Controller (MVC)
 
-### 2) Service Oriented Architecture (SOA)
+#### 2) Service Oriented Architecture (SOA)
 - SOA (Service Oriented Architecture) without the tears
 
   https://www.youtube.com/watch?v=JrS5pWp29OI
 
-### 3) Microservices
+#### 3) Microservices
 - Hanami in Microservices - https://www.useo.pl/blog/2021/07/trying-hanami-in-microservices
 
-### 4) Domain Driven Design (DDD)
+#### 4) Domain Driven Design (DDD)
 - DDD and Hexagonal Architecture with Rails
 
   https://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
@@ -30,7 +30,7 @@
 
   https://speakerdeck.com/mikeabiezzi/build-complex-domains-in-rails
 
-### Rails Common 
+#### Rails Common 
 - Rails 4 Engines
 
   http://tech.taskrabbit.com/blog/2014/02/11/rails-4-engines/
