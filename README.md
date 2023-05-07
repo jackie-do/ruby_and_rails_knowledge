@@ -7,7 +7,7 @@
 - [Karafka](https://github.com/karafka/karafka) - Karafka is a Ruby and Rails multi-threaded efficient Kafka processing framework
 
 ## 2) Architectures
-#### MVC Architect 
+#### - MVC Architect 
 
 - DDD and Hexagonal Architecture with Rails
 
