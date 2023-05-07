@@ -7,9 +7,9 @@
 - [Karafka](https://github.com/karafka/karafka) - Karafka is a Ruby and Rails multi-threaded efficient Kafka processing framework
 
 ## 2) Architectures
-### 1) Model-View-Controller (MVC)
+###  1) Model-View-Controller (MVC)
 
-### 2) Domain Driven Design (DDD)
+###  2) Domain Driven Design (DDD)
 
 - DDD and Hexagonal Architecture with Rails
 
