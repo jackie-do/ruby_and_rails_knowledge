@@ -146,7 +146,8 @@
   > * [`xray-rails`](https://github.com/brentd/xray-rails) - Detect Rails views in development
   > * [`mobility`](https://github.com/shioyama/mobility) - Translate module, Mobility is a gem for storing and retrieving translations as attributes on a class
   > * [`disco`](https://github.com/ankane/disco) - Recommendations for Ruby and Rails using collaborative filtering
-  > * [`predictor`]([https://github.com/ankane/disco](https://github.com/nyagato-00/predictor)) - Fast and efficient recommendations and predictions using Ruby & Redis
+  > * [`predictor`](https://github.com/nyagato-00/predictor) - Fast and efficient recommendations and predictions using Ruby & Redis
+  > * [`ahoy`](https://github.com/ankane/ahoy) - Track visits and events in Ruby, JavaScript, and native apps. Data is stored in your database
 
 
 
