@@ -8,6 +8,7 @@
 
 ## 2) Architectures
 #### 1) Model-View-Controller (MVC)
+- Default architecture of Rails
 
 #### 2) Service Oriented Architecture (SOA)
 - SOA (Service Oriented Architecture) without the tears
