@@ -148,6 +148,7 @@
   > * [`disco`](https://github.com/ankane/disco) - Recommendations for Ruby and Rails using collaborative filtering
   > * [`predictor`](https://github.com/nyagato-00/predictor) - Fast and efficient recommendations and predictions using Ruby & Redis
   > * [`ahoy`](https://github.com/ankane/ahoy) - Track visits and events in Ruby, JavaScript, and native apps. Data is stored in your database
+  > * [`anycable`](https://github.com/anycable/anycable) - AnyCable allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server (such as Faye, Action Cable, etc).
 
 
 
