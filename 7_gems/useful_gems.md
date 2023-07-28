@@ -24,6 +24,7 @@
   > * [`readthis`](https://github.com/sorentwo/readthis) - Readthis is a Redis backed cache client for Ruby
   > * [`active_record_extended`](https://github.com/GeorgeKaraszi/ActiveRecordExtended) - Adds extended functionality to Activerecord Postgres implementation
 
+
   #### Coding Patterns
   > * `interactor` - Apply Interactor for coding
   > * `draper` - Apply Decorator for coding
@@ -32,6 +33,7 @@
   > * `dry-initializer` - Support params and options
   > * [`waterfall`](https://github.com/apneadiving/waterfall) - Chain ruby commands, and treat them like a flow, which provides a new approach to application control flow.
   > * [`wisper`](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with `Publish-Subscribe` capabilities
+  > * [`subroutine`](https://github.com/guideline-tech/subroutine) - An interface for creating feature-driven operations.
   
   
   #### Coding Support
