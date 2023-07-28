@@ -22,7 +22,8 @@
   > * [`sequel`](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby.
   > * [`rom`](https://github.com/rom-rb/rom) - Ruby Object Mapper (rom-rb) is a data mapping and persistence toolkit for Ruby with the goal to provide powerful object mapping capabilities without limiting the full power of your database.
   > * [`readthis`](https://github.com/sorentwo/readthis) - Readthis is a Redis backed cache client for Ruby
-  
+  > * [`active_record_extended`](https://github.com/GeorgeKaraszi/ActiveRecordExtended) - Adds extended functionality to Activerecord Postgres implementation
+
   #### Coding Patterns
   > * `interactor` - Apply Interactor for coding
   > * `draper` - Apply Decorator for coding
