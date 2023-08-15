@@ -31,6 +31,8 @@
 
   https://speakerdeck.com/mikeabiezzi/build-complex-domains-in-rails
 
+- Demo https://github.com/Creditas/ddd-rails-sample
+
 #### Rails Common 
 - Rails 4 Engines
 
