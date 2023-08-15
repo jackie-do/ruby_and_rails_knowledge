@@ -60,6 +60,7 @@
 
 - Arel doc: https://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for-ruby.html
 - Styling: https://github.com/rubocop/rails-style-guide
+- Awesome Ruby: https://github.com/markets/awesome-ruby
 
 ## 6) Books
   * **Ruby (Basic, Design Pattern, Refactor, Low Level...)**
