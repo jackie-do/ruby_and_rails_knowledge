@@ -127,6 +127,10 @@
   > * [`wicked_pdf`](https://github.com/mileszs/wicked_pdf) - PDF generator from HTML using **wkhtmltopdf**
   
 ## 12) Additional Features
+#### Background Jobs
+  > * [`good_job`](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+  > * [`sidekiq`](https://github.com/sidekiq/sidekiq) - Sidekiq uses threads to handle many jobs at the same time in the same process. It does not require Rails but will integrate tightly with Rails to make background processing dead simple.
+#### Others
   > * [`aasm`](https://github.com/aasm/aasm) - This package contains AASM, a library for adding finite state machines to Ruby classes.
   > * [`acts_as_list`](https://github.com/brendon/acts_as_list) - This acts_as extension provides the capabilities for sorting and reordering a number of objects in a list. The class that has this specified needs to have a position column defined as an integer on the mapped database table.
   > * [`caxlsx`](https://github.com/caxlsx/caxlsx) - Export Excel.
