@@ -159,6 +159,7 @@
   > * [`ahoy`](https://github.com/ankane/ahoy) - Track visits and events in Ruby, JavaScript, and native apps. Data is stored in your database
   > * [`anycable`](https://github.com/anycable/anycable) - AnyCable allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server (such as Faye, Action Cable, etc).
   > * [`store_model`](https://github.com/DmitryTsepelev/store_model) - StoreModel gem allows you to wrap JSON-backed DB columns with ActiveModel-like classes.
+  > * [`premailer-rails`](https://github.com/fphilipe/premailer-rails) - This gem is a drop in solution for styling HTML emails with CSS without having to do the hard work yourself.
 
 
 
