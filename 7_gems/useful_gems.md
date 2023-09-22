@@ -11,6 +11,8 @@
   > * `bullet` - The Bullet gem is designed to help you increase your application's performance by reducing the number of queries it makes.
   > * [`meta_request`](https://github.com/dejan/rails_panel) - Provides insight to db/rendering/total times, parameter list, rendered views and more.
   > * [`derailed_benchmarks`](https://github.com/zombocom/derailed_benchmarks) - A series of things you can use to benchmark a Rails or Ruby app.
+  > * [`benchmark-ips`](https://github.com/evanphx/benchmark-ips) - Benchmark - An iterations per second enhancement to Benchmark
+  > * [`benchmark-memory`](https://github.com/michaelherold/benchmark-memory) - Benchmark - a tool that helps you to benchmark the memory usage of different pieces of code
   
 ## 2) Server, Database, Architect, Coding Patterns
   > * `apartment` - Apartment provides tools to help you deal with multiple tenants in your Rails application
@@ -152,6 +154,7 @@
   > * [`predictor`](https://github.com/nyagato-00/predictor) - Fast and efficient recommendations and predictions using Ruby & Redis
   > * [`ahoy`](https://github.com/ankane/ahoy) - Track visits and events in Ruby, JavaScript, and native apps. Data is stored in your database
   > * [`anycable`](https://github.com/anycable/anycable) - AnyCable allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server (such as Faye, Action Cable, etc).
+  > * [`store_model`](https://github.com/DmitryTsepelev/store_model) - StoreModel gem allows you to wrap JSON-backed DB columns with ActiveModel-like classes.
 
 
 
