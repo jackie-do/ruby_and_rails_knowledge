@@ -69,13 +69,17 @@
 
   <https://docs.google.com/presentation/d/1eu2x8EAPOe6LG2DTjNk-GZiUJ8TBAZuhq9awg31HfSU/edit#slide=id.g872c0e3715_0_1737>
 
-## 5) Documents some tools
+## V. Documents of some tools
 
 - Arel doc: <https://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for-ruby.html>
 - Styling: <https://github.com/rubocop/rails-style-guide>
 - Awesome Ruby: <https://github.com/markets/awesome-ruby>
 
-## 6) Books
+## VI. Useful Gem list
+
+ - [Gem list](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/7_gems/useful_gems.md)
+
+## VII. Books and Articles
 
 - **Ruby (Basic, Design Pattern, Refactor, Low Level...)**
     > - (Beginner) [Well Grounded Rubybist - 3rd](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Well%20grounded%20Rubyist%20-%203rd.pdf)
@@ -95,5 +99,3 @@
     > - (Middle) [Service-Oriented Design with Ruby on Rails](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Service-Oriented%20Design%20with%20Ruby%20and%20Rails.pdf)
     > - (Middle) [Component Based Rails Applications](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Component%20Based%20Rails-Applications.pdf)
     > - (Advance) [Lean Publishing Growing Rails Applications in Practice](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Lean%20Publishing%20Growing%20Rails%20Applications%20in%20Practice%20(2014).pdf)
-
-## 7) [Useful gem list](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/7_gems/useful_gems.md)
