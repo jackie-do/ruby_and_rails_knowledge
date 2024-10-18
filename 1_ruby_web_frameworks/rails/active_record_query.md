@@ -1,0 +1,2 @@
+# Rails - Active Record Query
+
