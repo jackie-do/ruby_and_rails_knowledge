@@ -15,9 +15,39 @@
 
 ## II. Architectures
 
-### 1. Model-View-Controller (MVC)
+### 1. Rails Architectures
+
+#### a. Model-View-Controller (MVC)
 
 - Default architecture of Rails
+  - You can read more in [https://guides.rubyonrails.org](https://guides.rubyonrails.org)
+
+#### b. Abstract Layers in Rails
+
+- You can read the book `Layered Design for Ruby on Rails - Viladimir Dementyev` to know more:
+  - Abtract Layers in Rails
+  - Something default of Rails is not good enough
+  - When Rails Abstracts are not enough
+  - Custom to add more layers into Rails
+
+#### c. Components based (Modularizing Rails)
+
+- You can read the book `Components-Based Rails Applications - Stephan Hagemann` to know more:
+  - Utilizing [Rails Engine](https://guides.rubyonrails.org/engines.html) to build Rails application with Component-Based
+  - What is the benefits ?
+    - Improved Communication of Intent
+    - Improved Collaboration Among Developers
+    - Improved Creation of Features
+    - Improved Maintenance of the Application
+    - Improved Comprehension of Application Parts
+
+#### 1. Model-View-Controller (MVC)
+
+- Default architecture of Rails
+  - You can read more in [https://guides.rubyonrails.org](https://guides.rubyonrails.org):
+
+
+#### 2. Module
 
 ### 2. Service Oriented Architecture (SOA)
 
