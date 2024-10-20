@@ -136,7 +136,7 @@
 
 #### Forums
 
-* `discourse` ![GitHub Repo stars](https://img.shields.io/github/stars/discourse/discourse) - Discourse is the online home for your community. We offer a 100% open source community platform to those who want complete control over how and where their site is run.
+* `discourse` ![GitHub Repo stars](https://img.shields.io/github/stars/discourse/discourse?style=social) - Discourse is the online home for your community. We offer a 100% open source community platform to those who want complete control over how and where their site is run.
 
 #### Others
 
