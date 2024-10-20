@@ -134,6 +134,10 @@
 * [`good_job`](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 * [`solid_queue`](https://github.com/rails/solid_queue) - Rails Offical DB-based queuing backend for Active Job, using database (MySQL >=8, PostgreSQL >= 9.5)
 
+#### Forums
+
+* `discourse` ![GitHub Repo stars](https://img.shields.io/github/stars/discourse/discourse) - Discourse is the online home for your community. We offer a 100% open source community platform to those who want complete control over how and where their site is run.
+
 #### Others
 
 * [`aasm`](https://github.com/aasm/aasm) - This package contains AASM, a library for adding finite state machines to Ruby classes.
