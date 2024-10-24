@@ -1,6 +1,8 @@
 # Ruby and Rails knowledge
 
-## I. Ruby Web Frameworks
+## I. Ruby
+
+### 1. Web Frameworks
 
 - [Rails](https://rubyonrails.org/) - The most famost Ruby framework for building websites and web apps
   - [Major updates of Rails versions](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/1_ruby_web_frameworks/rails/major_updates_of_rails_version.md.md)
@@ -12,6 +14,9 @@
 - [Sinatra](https://sinatrarb.com/intro.html) - The simplest and lightest framework with more than 2k lines of code, support very basic features.
 - [Grape](https://github.com/ruby-grape/grape#what-is-grape) - Grape is a REST-like API framework for Ruby
 - [Karafka](https://github.com/karafka/karafka) - Karafka is a Ruby and Rails multi-threaded efficient Kafka processing framework
+
+### 2. Coding and Best Practices
+- [Ruby Best Libraries/Tools](https://github.com/markets/awesome-ruby)
 
 ## II. Architectures
 
@@ -45,7 +50,6 @@
 
 - Default architecture of Rails
   - You can read more in [https://guides.rubyonrails.org](https://guides.rubyonrails.org):
-
 
 #### 2. Module
 
@@ -107,7 +111,7 @@
 
 ## VI. Useful Gem list
 
- - [Gem list](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/7_gems/useful_gems.md)
+- [Gem list](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/7_gems/useful_gems.md)
 
 ## VII. Books and Articles
 
