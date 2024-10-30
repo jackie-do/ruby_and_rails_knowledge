@@ -16,7 +16,10 @@
 - [Karafka](https://github.com/karafka/karafka) - Karafka is a Ruby and Rails multi-threaded efficient Kafka processing framework
 
 ### 2. Coding and Best Practices
+
 - [Ruby Best Libraries/Tools](https://github.com/markets/awesome-ruby)
+- [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide)
+- [Rails Style Guide](https://github.com/rubocop/rails-style-guide)
 
 ## II. Architectures
 
@@ -26,6 +29,7 @@
 
 - Default architecture of Rails
   - You can read more in [https://guides.rubyonrails.org](https://guides.rubyonrails.org)
+- This architecture belongs to Monolothic architecture. Normaly, we should modulize our code base on business units to improve the scalability in future.
 
 #### b. Abstract Layers in Rails
 
@@ -45,11 +49,6 @@
     - Improved Creation of Features
     - Improved Maintenance of the Application
     - Improved Comprehension of Application Parts
-
-#### 1. Model-View-Controller (MVC)
-
-- Default architecture of Rails
-  - You can read more in [https://guides.rubyonrails.org](https://guides.rubyonrails.org):
 
 #### 2. Module
 
@@ -106,8 +105,6 @@
 ## V. Documents of some tools
 
 - Arel doc: <https://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for-ruby.html>
-- Styling: <https://github.com/rubocop/rails-style-guide>
-- Awesome Ruby: <https://github.com/markets/awesome-ruby>
 
 ## VI. Useful Gem list
 
@@ -116,20 +113,20 @@
 ## VII. Books and Articles
 
 - **Ruby (Basic, Design Pattern, Refactor, Low Level...)**
-    > - (Beginner) [Well Grounded Rubybist - 3rd](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Well%20grounded%20Rubyist%20-%203rd.pdf)
-    > - (Beginner - Middle) [Practical Object-Oriented Design - 2nd](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Practical%20Object-Oriented%20Design%20-%202nd.pdf)
-    > - (Beginner - Middle) [TDD in Ruby](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Test%20Driven%20Development%20in%20Ruby.pdf)
-    > - (Beginner - Middle) [Ruby Best Practices](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Ruby%20Best%20%20Practices.pdf)
-    > - (Middle) [Design Patterns in Ruby(2007)](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Design%20Patterns%20in%20Ruby%20(2007).pdf)
-    > - (Middle - Advance) [Refactoring Ruby](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Refactoring%20Ruby.pdf)
-    > - (Middle - Advance) [Metaprograming Ruby](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Metaprogramming%20Ruby%202nd.pdf)
-    > - (Advance) [Ruby Under a Microscope](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Ruby%20Under%20a%20Microscope.pdf)
-    > - (Advance) [Ruby Performance Optimization](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Ruby%20-%20Ruby%20Performance%20Optimization.pdf)
+    > - (Beginner) [Well Grounded Rubybist - 3rd]
+    > - (Beginner - Middle) [Practical Object-Oriented Design - 2nd]
+    > - (Beginner - Middle) [TDD in Ruby]
+    > - (Beginner - Middle) [Ruby Best Practices]
+    > - (Middle) [Design Patterns in Ruby(2007)]
+    > - (Middle - Advance) [Refactoring Ruby]
+    > - (Middle - Advance) [Metaprograming Ruby]
+    > - (Advance) [Ruby Under a Microscope]
+    > - (Advance) [Ruby Performance Optimization]
 
 - **Rails (Basic, Structure, Scalability...)**
-    > - (Beginner) [Learn Rails 5.2](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Learn%20Rails%205-2.pdf)
-    > - (Beginner) [Rails 5 Test Prescriptions](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Rails%205%20Test%20Prescriptions.pdf)
-    > - (Middle) [Modular Rails - The complete guide](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Modular%20Rails%20The%20Complete%20Guide%20to%20Modular%20Rails%20Applications.pdf)
-    > - (Middle) [Service-Oriented Design with Ruby on Rails](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Service-Oriented%20Design%20with%20Ruby%20and%20Rails.pdf)
-    > - (Middle) [Component Based Rails Applications](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Component%20Based%20Rails-Applications.pdf)
-    > - (Advance) [Lean Publishing Growing Rails Applications in Practice](https://github.com/jackiedo91/ruby_and_rails_knowledge/blob/master/6_books/Rails%20-%20Lean%20Publishing%20Growing%20Rails%20Applications%20in%20Practice%20(2014).pdf)
+    > - (Beginner) [Learn Rails 5.2]
+    > - (Beginner) [Rails 5 Test Prescriptions]
+    > - (Middle) [Modular Rails - The complete guide]
+    > - (Middle) [Service-Oriented Design with Ruby on Rails]
+    > - (Middle) [Component Based Rails Applications]
+    > - (Advance) [Lean Publishing Growing Rails Applications in Practice]
