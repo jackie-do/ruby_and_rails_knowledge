@@ -285,6 +285,6 @@ You can check futher in section "Release Notes" of [Rails Guides](https://guides
 
 - Enable YJIT by default if running Ruby 3.3+ - It can provide significant performance improvements for Rails applications, offering **15-25%** latency improvements.
 - Setup `jemalloc` in default Dockerfile to optimize memory allocation [Read More](https://www.speedshop.co/2017/12/04/malloc-doubles-ruby-memory.html)
--
+- Support `ActiveRecord::Base.connection_pool.with_connection` to we can return database connection in a block (instead of a request like normal) [Read More](https://github.com/rails/rails/pull/51349)
 
 ## Rails 8
