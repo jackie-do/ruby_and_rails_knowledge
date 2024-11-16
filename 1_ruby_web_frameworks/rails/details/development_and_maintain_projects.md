@@ -31,4 +31,7 @@
 
 ### III. Maintain your app
 
+#### 1. Benchmark
+
+#### 2. Optim
 - Check and optimize Rails <https://github.com/rails/rails-perftest>

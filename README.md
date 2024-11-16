@@ -23,23 +23,25 @@
 
 ## II. Rails in details
 
-### 1. Architectures [Read Details](https://github.com/jackie-do/ruby_and_rails_knowledge/blob/master/1_ruby_web_frameworks/rails/details/architectures.md)
+### 1. Architectures [read details](https://github.com/jackie-do/ruby_and_rails_knowledge/blob/master/1_ruby_web_frameworks/rails/details/architectures.md)
 
-- DDD and Hexagonal Architecture with Rails
+- DDD in rails
+  <details>
+    <summary>Click me</summary>
 
-  <https://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails>
+  - DDD and Hexagonal Architecture with Rails
+    <https://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails>
 
-- Refactoring with hexagonal Rail (with example)
+  - Refactoring with hexagonal Rail (with example)
+    <https://www.agileplannerapp.com/blog/building-agile-planner/refactoring-with-hexagonal-rails>
 
-  <https://www.agileplannerapp.com/blog/building-agile-planner/refactoring-with-hexagonal-rails>
+  - Building Complex Domains in Rails (DDD with Rails)
+    <https://speakerdeck.com/mikeabiezzi/build-complex-domains-in-rails>
 
-- Building Complex Domains in Rails (DDD with Rails)
+  - Demo <https://github.com/Creditas/ddd-rails-sample>
+  </details>
 
-  <https://speakerdeck.com/mikeabiezzi/build-complex-domains-in-rails>
-
-- Demo <https://github.com/Creditas/ddd-rails-sample>
-
-### 2. Development and Maintain projects [Read Details](https://github.com/jackie-do/ruby_and_rails_knowledge/blob/master/1_ruby_web_frameworks/rails/details/development_and_maintain_projects.md)
+### 2. Development and Maintain projects [read details](https://github.com/jackie-do/ruby_and_rails_knowledge/blob/master/1_ruby_web_frameworks/rails/details/development_and_maintain_projects.md)
 
 ### 3. Tools documents
 
@@ -52,6 +54,10 @@
 - Hanami in Microservices - <https://www.useo.pl/blog/2021/07/trying-hanami-in-microservices>
 
 ### 2. Development and Maintain projects
+
+## IV. Interesting toys in Ruby world
+
+- A really hign performance web server [Falcon](https://github.com/socketry/falcon)
 
 ## V. Useful Gem list
 
