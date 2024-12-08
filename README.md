@@ -57,7 +57,7 @@
 
 ## IV. Interesting toys in Ruby world
 
-- A really hign performance web server [Falcon](https://github.com/socketry/falcon)
+- A really high performance web server [Falcon](https://github.com/socketry/falcon)
 
 ## V. Useful Gem list
 
